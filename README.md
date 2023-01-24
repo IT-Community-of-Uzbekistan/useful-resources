@@ -1,2 +1,2 @@
-# useful-resources
-Useful Resources
+# IT Community of Uzbekistan
+## Useful Resources
