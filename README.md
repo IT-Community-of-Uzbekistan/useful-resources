@@ -5,7 +5,7 @@
 
 # Contents
 
-- [Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#education)\
+- [Education](https://github.com/IT-Community-of-Uzbekistan/useful-resources/edit/main/README.md#education)\
     • [General Resources for Education](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#general-resources-for-education)\
     • [Resources for Specific Areas](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#resources-for-specific-areas)\
     • [eBooks & Textbooks](https://github.com/shamsiddin-abbasov/essential_links/blob/main/README.md#ebooks--textbooks)\
