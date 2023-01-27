@@ -3,11 +3,11 @@
 </p>
 <h3 align="center">Useful Resources</h3>
 
-# Contents
+## Contents
 
 - [Education](https://github.com/IT-Community-of-Uzbekistan/useful-resources/edit/main/README.md#education)
 
-### Education
+# Education
 - [General Educational Platforms]()
 
 ## General Educational Platforms
