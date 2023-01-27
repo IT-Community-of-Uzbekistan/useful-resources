@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Education](https://github.com/IT-Community-of-Uzbekistan/useful-resources/edit/main/README.md#education)
+- [Education](https://github.com/IT-Community-of-Uzbekistan/useful-resources/blob/main/README.md#education)
 
 # Education
 - [General Educational Platforms]()
